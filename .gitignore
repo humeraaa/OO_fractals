@@ -1,3 +1,9 @@
 *.exe
 *.obj
 *.log
+
+# Ignore Java compiled files and temp folders
+*.class
+/out/
+/.vscode/
+/*.bat
