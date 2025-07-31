@@ -50,9 +50,8 @@ Right-click your folder → Open in Integrated Terminal Or use the shortcut: Ctr
 
 Install a required package (example: for UML or plotting):
 ```sh
-pip install matplotlib         # For plotting
 pip install pylint             # For linting
-pip install plantuml           # For UML diagram generation
+Download and install: https://graphviz.org/download/
 ```
 ---
 ### 📦 save  Installed Packages
